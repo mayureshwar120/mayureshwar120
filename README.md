@@ -435,9 +435,7 @@ Future █████████████████ Become Full Stack Eng
 
 ---
 
-# 🐍 Contribution Snake
-
-## 🐍 Contribution Activity
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mayureshwar120/mayureshwar120/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
