@@ -57,7 +57,7 @@ class MayureshwarPawar {
 
 public:
 
-    string role = "Aspiring Software Engineer";
+    string role = "Aspiring ML Engineer";
 
     string college = "MIT Academy of Engineering";
 
